@@ -15,6 +15,6 @@ x.    .     '88bu.       dF     988Nx
   
 --------------------------------------------------------------------
 
-<a href="https://ud2.dev">blog</a> - <a href="https://ud2.dev/members">members</a> - <a href="https://ud2.dev/mirrors">mirrors</a> - <a href="https://github.com/orgs/0ud2/repositories">repositories</a>
+<a href="https://ud2.rip">blog</a> - <a href="https://ud2.rip/members">members</a> - <a href="https://ud2.rip/mirrors">mirrors</a> - <a href="https://github.com/orgs/0ud2/repositories">repositories</a>
 </pre>
 </div>
